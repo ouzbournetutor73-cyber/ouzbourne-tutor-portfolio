@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ouzbourne Tutor Portfolio",
+  "description": "Personal portfolio website of Ouzbourne Tutor, Web Developer and 2nd Year Information Systems Student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
