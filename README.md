@@ -2,6 +2,10 @@
 
 Personal portfolio website of Ouzbourne Tutor, Web Developer and 2nd Year Information Systems Student.
 
+## 🌐 Visit Site
+
+[Visit Site](https://remix-ouzbourne-tutor-portfolio-1042602957579.asia-southeast1.run.app/)
+
 ## About
 
 This is a modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. The application integrates Google's Gemini API for AI-powered features.
@@ -22,7 +26,7 @@ This is a modern, responsive portfolio website built with React, TypeScript, and
 - Node.js (v18 or higher recommended)
 - npm or yarn
 
-## Getting Started
+## Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -55,36 +59,6 @@ This is a modern, responsive portfolio website built with React, TypeScript, and
 - `npm run preview` - Preview the production build
 - `npm run clean` - Clean build artifacts
 - `npm run lint` - Run TypeScript type checking
-
-## Project Structure
-
-```
-.
-├── src/               # Source code
-├── index.html         # HTML entry point
-├── package.json       # Dependencies and scripts
-├── tsconfig.json      # TypeScript configuration
-├── vite.config.ts     # Vite configuration
-└── README.md          # This file
-```
-
-## Features
-
-- Responsive design
-- AI-powered interactions with Gemini API
-- Modern animations
-- PDF export capability
-- Type-safe TypeScript codebase
-
-## Deployment
-
-The app is optimized for deployment. After building:
-
-```bash
-npm run build
-```
-
-The `dist/` folder contains the production-ready files.
 
 ## License
 
